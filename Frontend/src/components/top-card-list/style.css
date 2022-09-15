@@ -1,0 +1,12 @@
+.top-cards {
+    /* border: 1px solid green; */
+    margin-top: -50px;
+    margin-bottom: 3em;
+  }
+  .header-total {
+    color: var(--gray);
+    margin: .5em 0;
+    font-weight: 600;
+    border-bottom: 1px solid var(--gray);
+    padding-bottom: 1.5em;
+  }
